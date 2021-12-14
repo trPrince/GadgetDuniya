@@ -16,7 +16,7 @@ Then if you click the "Let's Shop!" button you'll see the products.
 
 You can click on products to see their details, another click will again collapse that details information.
 
-![Screenshot 2021-12-14 at 15-09-06 Gadget দুনিয়া](https://user-images.githubusercontent.com/79270956/145968229-285a1e25-730e-484c-9df9-2e1f79d03364.png)
+![Screenshot 2021-12-14 at 15-12-21 Gadget দুনিয়া](https://user-images.githubusercontent.com/79270956/145968558-069e1f8f-1895-48ce-9ab8-82d39353498e.png)
 
 Then you can see add to basket option. Select your products and click the basket
 
