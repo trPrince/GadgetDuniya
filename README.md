@@ -39,5 +39,6 @@ In our commercejs account we could upload the different products, set their name
 
 ![g_products](https://user-images.githubusercontent.com/79270956/145967149-9bd640d0-3bd9-438c-a2c4-7d3718682936.jpeg)
 
-![g_categories](https://user-images.githubusercontent.com/79270956/145967176-cb3655a2-cf64-45d5-aee8-51de5d3ad85c.jpeg)
+![g_categories1](https://user-images.githubusercontent.com/86424686/145972270-9f67d432-b341-428e-94ab-3febb724ea5b.jpeg)
+
 
