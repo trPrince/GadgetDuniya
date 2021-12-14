@@ -41,7 +41,7 @@ In our commercejs account we could upload the different products, set their name
 
 ![g_categories1](https://user-images.githubusercontent.com/86424686/145972270-9f67d432-b341-428e-94ab-3febb724ea5b.jpeg)
 
-<font size="+1">Here is our CSE332 Project (Gadget Duniya) Presentation Video:</font>
+<font size="3">**Here is our CSE332 Project (Gadget Duniya) Presentation Video:**</font>
 
 [![CSE332 Project Presentation](https://user-images.githubusercontent.com/86424686/145986781-e55bda48-1438-40cd-bcb6-44ca2e42263d.jpg)](https://youtu.be/TnJIifX7iPA)
 
