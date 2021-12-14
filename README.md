@@ -41,4 +41,4 @@ In our commercejs account we could upload the different products, set their name
 
 ![g_categories1](https://user-images.githubusercontent.com/86424686/145972270-9f67d432-b341-428e-94ab-3febb724ea5b.jpeg)
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TnJIifX7iPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
