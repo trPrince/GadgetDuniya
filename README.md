@@ -30,7 +30,7 @@ If you want you can empty the basket and go back to shopping. Or you could proce
 
 ![Screenshot 2021-12-14 at 13-03-14 Gadget দুনিয়া](https://user-images.githubusercontent.com/79270956/145965577-7342ba03-961e-41ed-96ad-ca1d1f1ca0bd.png)
 
-The backend is supported by commerce.js(https://commercejs.com/) where we had to create an account first and integrated with out application using a public key in commerce.js file in lib directory.
+The backend is supported by [Commerce.js](https://commercejs.com/) where we had to create an account first and integrated with out application using a public key in commerce.js file in lib directory.
 
 In our commercejs account we could upload the different products, set their name, image, details, prices, shipping info and many other things by following the simple and intuitive UI.
 ![g_edit2](https://user-images.githubusercontent.com/79270956/145967086-04043bb3-70fa-4dad-919b-9283e9693062.jpeg)
