@@ -1,7 +1,7 @@
 # Gadget Duniya - Get all your gadgets in one place. 
   It is an e-commerce application, create by using React.js (Hooks), Matrial-UI, Commerce.js and Stripe.js, created for education and learning purpose. But the end product can be used to sell gadgets(or any products) online.
   
-## How to run it(Provided you have Node.js installed in your system)
+## How to run it (Provided you have [Node.js](https://nodejs.org/en/) installed in your system)
 - Navigate into the main directory
 - Run `npm install` to install node modules
 - Run `npm start` to run it locally then will open automatclly on your browser on `localhost:3000` port
@@ -43,5 +43,5 @@ In our commercejs account we could upload the different products, set their name
 
 <font size="3">**Here is our CSE332 Project (Gadget Duniya) Presentation Video:**</font>
 
-[![CSE332 Project Presentation](https://user-images.githubusercontent.com/86424686/145986781-e55bda48-1438-40cd-bcb6-44ca2e42263d.jpg)](https://youtu.be/TnJIifX7iPA)
+https://user-images.githubusercontent.com/86424686/146665074-0edd0b06-6faf-4f3d-b51c-3c98e4b52da9.mp4
 
