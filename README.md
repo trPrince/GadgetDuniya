@@ -43,5 +43,4 @@ In our commercejs account we could upload the different products, set their name
 
 <font size="3">**Here is our CSE332 Project (Gadget Duniya) Presentation Video:**</font>
 
-https://user-images.githubusercontent.com/86424686/146665074-0edd0b06-6faf-4f3d-b51c-3c98e4b52da9.mp4
 
